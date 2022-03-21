@@ -946,6 +946,6 @@ footer {
         padding: 0 15px;
     }
     .testimonials-section .quote {
-        height: 300px;
+        height: auto;
     }
 }
